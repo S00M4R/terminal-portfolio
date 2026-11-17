@@ -36,6 +36,6 @@ A interactive terminal-style portfolio website built with HTML, CSS and JavaScri
 ## AUTHOR
 
 Muhammed Soomar  
-GitHub: [@4L13N-786](https://github.com/4L13N-786)  
+GitHub: [@S00M4R](https://github.com/S00M4R)  
 LinkedIn: [muhammed-soomar](https://www.linkedin.com/in/muhammed-soomar-6916272b7/)  
 Instagram: [@muhammed_soomar](https://www.instagram.com/muhammed_soomar/)
