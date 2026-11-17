@@ -74,7 +74,7 @@ async function getInputValue() {
   } else if (value === "projects") {
     trueValue(value);
     createText(
-      "<a href='https://github.com/4L13N-786' target='_blank'><i class='fab fa-github white'></i> github.com/4L13N-786</a>"
+      "<a href='https://github.com/S00M4R' target='_blank'><i class='fab fa-github white'></i> github.com/S00M4R</a>"
     );
   } else if (value === "about me") {
     trueValue(value);
@@ -85,7 +85,7 @@ async function getInputValue() {
   } else if (value === "social -a") {
     trueValue(value);
     createText(
-      "<a href='https://github.com/4L13N-786' target='_blank'><i class='fab fa-github white'></i> github.com/4L13N-786</a>"
+      "<a href='https://github.com/S00M4R' target='_blank'><i class='fab fa-github white'></i> github.com/S00M4R</a>"
     );
     createText(
       "<a href='https://www.linkedin.com/in/muhammed-soomar-6916272b7/' target='_blank'><i class='fab fa-linkedin-in white'></i> linkedin.com/in/muhammed-soomar</a>"
